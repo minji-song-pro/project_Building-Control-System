@@ -1,0 +1,84 @@
+D:\project\C#\source\Serial\Serial\bin\Debug\Serial.exe.config
+D:\project\C#\source\Serial\Serial\bin\Debug\Serial.exe
+D:\project\C#\source\Serial\Serial\bin\Debug\Serial.pdb
+D:\project\C#\source\Serial\Serial\obj\Debug\Serial.csprojAssemblyReference.cache
+D:\project\C#\source\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+D:\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.cache
+D:\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.CoreCompileInputs.cache
+D:\project\C#\source\Serial\Serial\obj\Debug\Serial.exe
+D:\project\C#\source\Serial\Serial\obj\Debug\Serial.pdb
+D:\project\C#\source\Serial\Serial\bin\Debug\MySql.Data.dll
+D:\project\C#\source\Serial\Serial\bin\Debug\Google.Protobuf.dll
+D:\project\C#\source\Serial\Serial\bin\Debug\BouncyCastle.Crypto.dll
+D:\project\C#\source\Serial\Serial\bin\Debug\Renci.SshNet.dll
+D:\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.CopyComplete
+D:\project\C#\source\Serial\Serial\obj\Debug\Serial.tb_id.resources
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe.config
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.pdb
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.tb_id.resources
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.exe
+C:\Users\Administrator\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.pdb
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe.config
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.pdb
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.tb_id.resources
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.exe
+C:\Users\kccistc\OneDrive\송민지\6. AVR\스마트빌딩 프로젝트(V0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.pdb
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe.config
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.pdb
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.tb_id.resources
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.exe
+C:\Users\Administrator\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.pdb
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csprojAssemblyReference.cache
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.tb_id.resources
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.cache
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.exe
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.pdb
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe.config
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.pdb
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Google.Protobuf.dll
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Renci.SshNet.dll
+C:\Users\문영준\OneDrive\SongMinJi\6. AVR\SBM(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.exe
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Serial.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.tb_id.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.exe
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_3(v0.01)\project\C#\source\Serial\Serial\obj\Debug\Serial.pdb

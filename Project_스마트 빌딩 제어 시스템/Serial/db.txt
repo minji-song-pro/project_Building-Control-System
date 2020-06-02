@@ -1,0 +1,12 @@
+SHOW DATABASES;
+USE sqldb;
+SHOW TABLES;
+SELECT * FROM sensor;
+DESC sensor;
+DROP TABLE sensor;
+CREATE TABLE sensor(
+s_date DATETIME,
+temper double,
+humi double
+);
+INSERT INTO sensor(temper,humi) VALUES (25.4,26.4);
